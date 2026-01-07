@@ -2,6 +2,11 @@
 
 A personal finance tracking REST API application built with Spring Boot, Spring Data JPA, and Hibernate ORM.
 
+<img width="1885" height="783" alt="image" src="https://github.com/user-attachments/assets/113c5c75-6335-47c2-baac-d450bf5a59eb" />
+<img width="1892" height="811" alt="image" src="https://github.com/user-attachments/assets/25cf88db-7b96-4b5b-812d-c47251b03479" />
+
+
+
 ## Project Overview
 
 Finance Tracker is a backend service that enables users to manage their financial transactions efficiently. It provides REST API endpoints to create, read, update, and delete transaction records, with persistent storage using an H2 in-memory database.
